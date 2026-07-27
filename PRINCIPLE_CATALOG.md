@@ -189,4 +189,4 @@ A client should not be forced to depend on an interface it does not use; rather 
 These principles, taught live — for individuals who write AI skills and for teams that want them done right.
 
 - **In the Czech or Slovak region?** → [Clean AI Skill Code — školení a webináře](https://www.objects.cz/clean-ai-skill-code-casc/) (in Czech)
-- **Everywhere else?** The English online edition is open to all countries. Dates are being scheduled and seats are limited — register your interest now at [casc@objects.cz](mailto:casc@objects.cz?subject=CASC%20training%20-%20interest%20(worldwide)).
+- **Everywhere else?** → [Clean AI Skill Code — Workshop (English)](https://www.objects.cz/clean-ai-skill-code-casc-en/) — open to all countries; the dates are being scheduled and seats are limited, so join the waitlist there.
